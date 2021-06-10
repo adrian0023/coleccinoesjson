@@ -1,4 +1,5 @@
-[{
+{   
+    "Tomos":[{
     "id": "superman",
     "nombre": "Superman",
     "imagen": "/img/img_tienda/comic/dc/grapas/Superman-28.jpg",
@@ -238,3 +239,4 @@
       }
       ]
 }]
+}
