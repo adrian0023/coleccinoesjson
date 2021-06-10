@@ -1,0 +1,240 @@
+[{
+    "id": "superman",
+    "nombre": "Superman",
+    "imagen": "/img/img_tienda/comic/dc/grapas/Superman-28.jpg",
+    "num_tomos": 12,
+    "tomos": [
+      {
+        "id_tomo": 1,
+        "nombre_tomo": "01 - Superman",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 2,
+        "nombre_tomo": "02 - Superman",
+        "imagen_tomo": "", 
+        "enlace": ""
+      },
+	{
+        "id_tomo": 3,
+        "nombre_tomo": "03 - Superman",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 4,
+        "nombre_tomo": "04 - Superman",
+        "imagen_tomo": "",
+        "enlace": ""
+      }
+      ]
+},
+{
+    "id": "batman-fortnite",
+    "nombre": "Batman Fortnite",
+    "imagen": "/img/img_tienda/comic/dc/grapas/batmanfortnite-punto-cero-03-de-6.jpg",
+    "num_tomos": 6,
+    "tomos": [
+      {
+        "id_tomo": 1,
+        "nombre_tomo": "01 - Batman Fortnite",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 2,
+        "nombre_tomo": "02 - Batman Fortnite",
+        "imagen_tomo": "", 
+        "enlace": ""
+      },
+	{
+        "id_tomo": 3,
+        "nombre_tomo": "03 - Batman Fortnite",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 4,
+        "nombre_tomo": "04 - Batman Fortnite",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+{
+        "id_tomo": 5,
+        "nombre_tomo": "05 - Batman Fortnite",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 6,
+        "nombre_tomo": "06 - Batman Fortnite",
+        "imagen_tomo": "", 
+        "enlace": ""
+      }
+      ]
+},
+{
+    "id": "batman",
+    "nombre": "Batman",
+    "imagen": "/img/img_tienda/comic/dc/tomos/batman-condenado-integral.jpg",
+    "num_tomos": 9,
+    "tomos": [
+      {
+        "id_tomo": 1,
+        "nombre_tomo": "01 - Batman",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 2,
+        "nombre_tomo": "02 - Batman",
+        "imagen_tomo": "", 
+        "enlace": ""
+      },
+	{
+        "id_tomo": 3,
+        "nombre_tomo": "03 - Batman",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 4,
+        "nombre_tomo": "04 - Batman",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+{
+        "id_tomo": 5,
+        "nombre_tomo": "05 - Batman",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 6,
+        "nombre_tomo": "06 - Batman",
+        "imagen_tomo": "", 
+        "enlace": ""
+      }
+      ]
+},
+
+{
+    "id": "harley-quinn",
+    "nombre": "Harley Quinn",
+    "imagen": "/img/img_tienda/comic/dc/tomos/harleen-integral.jpg",
+    "descripcion" : "",
+    "num_tomos": 5,
+    "tomos": [
+      {
+        "id_tomo": 1,
+        "nombre_tomo": "01 - Harley Quinn",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 2,
+        "nombre_tomo": "02 - Harley Quinn",
+        "imagen_tomo": "", 
+        "enlace": ""
+      },
+	{
+        "id_tomo": 3,
+        "nombre_tomo": "03 - Harley Quinn",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 4,
+        "nombre_tomo": "04 - Harley Quinn",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+{
+        "id_tomo": 5,
+        "nombre_tomo": "05 - Harley Quinn",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 6,
+        "nombre_tomo": "06 - Harley Quinn",
+        "imagen_tomo": "", 
+        "enlace": ""
+      }
+      ]
+},
+{
+    "id": "flash",
+    "nombre": "Flash",
+    "imagen": "/img/img_tienda/comic/dc/grapas/flash-6652.jpg",
+    "num_tomos": 32,
+    "tomos": [
+      {
+        "id_tomo": 1,
+        "nombre_tomo": "01 - Flash",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 2,
+        "nombre_tomo": "02 - Flash",
+        "imagen_tomo": "", 
+        "enlace": ""
+      },
+	{
+        "id_tomo": 3,
+        "nombre_tomo": "03 - Flash",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 4,
+        "nombre_tomo": "04 - Flash",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+{
+        "id_tomo": 5,
+        "nombre_tomo": "05 - Flash",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+{
+        "id_tomo": 6,
+        "nombre_tomo": "06 - Flash",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+{
+        "id_tomo": 7,
+        "nombre_tomo": "07 - Flash",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+{
+        "id_tomo": 8,
+        "nombre_tomo": "08 - Flash",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+{
+        "id_tomo": 9,
+        "nombre_tomo": "09 - Flash",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+{
+        "id_tomo": 10,
+        "nombre_tomo": "10 - Flash",
+        "imagen_tomo": "",
+        "enlace": ""
+      },
+	{
+        "id_tomo": 11,
+        "nombre_tomo": "11 - Flash",
+        "imagen_tomo": "", 
+        "enlace": ""
+      }
+      ]
+}]
